@@ -1,18 +1,7 @@
-### Hey there!
+👋 Hi there, I’m Nico!
 
-:wave: Hi! everyone calls me Nico.
+🚀 Data Engineer | Automating & Optimizing Data Workflows
 
-Born in France :fr:, I am now a proud :canada: Canadian citizen.
+I specialize in building scalable and efficient data pipelines using dbt, Prefect, Snowflake, SQL, Python, and GCP. I’m passionate about streamlining data workflows and leveraging AI to boost productivity.
 
-I am BI developer at Block 🔥.
-
-### My day to day
-
-- As part of my work, I code mostly in `SQL`.
-- I love learning. I worked on many different tech stacks over the years.
-- This year, I will focus on `Snowflake`, `LookML` and `Javascript`.
-
-### My wishlist
-
-1. Become very good at `Python`
-2. Start learning about `Solidity`
+💡 Always exploring new ways to make data engineering faster, smarter, and more reliable.
